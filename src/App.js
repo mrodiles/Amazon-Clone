@@ -1,12 +1,12 @@
 import React from "react";
+import Header from "./components/Header/Header";
 import "./App.css";
 
 function App() {
   return (
     //BEM convention for styling
     <div className="app">
-      <h1>Amazon Clone</h1>
-      {/* Header */}
+      <Header />
       {/* Home */}
     </div>
   );
