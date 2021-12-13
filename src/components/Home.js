@@ -62,7 +62,6 @@ function Home() {
             rating={5}
             image="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.lg.com%2Fin%2Fimages%2FMN%2Ffeatures%2F34WK95C-W-34-Curved-UltraWide-Thumbnail.png&f=1&nofb=1"
           />
-          />
         </div>
       </div>
     </div>
