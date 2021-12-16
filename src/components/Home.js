@@ -37,6 +37,7 @@ function Home() {
             rating={3}
             image="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fkitchenaid-h.assetsadobe.com%2Fis%2Fimage%2Fcontent%2Fdam%2Fbusiness-unit%2Fkitchenaid%2Fen-us%2Fdigital-assets%2Fpages%2Fhomepage%2Foptimizations-january2020%2Fgray-mixer-desktop.png%3Fbgc%3D246%2C246%2C246%26fit%3Dconstrain%26fmt%3Dpng-alpha%26hei%3D1016%26qlt%3D30%26resMode%3Dsharp2%26utc%3D2020-03-11T16%3A46%3A27Z&f=1&nofb=1"
           />
+
           <Product
             id="49538095"
             title="Dring Up Ugly Sweater"
@@ -57,10 +58,10 @@ function Home() {
         <div className="home__row">
           <Product
             id="49538097"
-            title="Garmin Phenix 6x Solar GPS Multi Sport Watch"
+            title="Ultra Wide LG Monitor 42"
             price={489.99}
             rating={5}
-            image="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.lg.com%2Fin%2Fimages%2FMN%2Ffeatures%2F34WK95C-W-34-Curved-UltraWide-Thumbnail.png&f=1&nofb=1"
+            image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyFoJ9RTrbpskKml8hkQstYgKYngPJWGwGW-WZt6UxxUCquLflCnPMIDoGx64o7KadLMU&usqp=CAU"
           />
         </div>
       </div>
