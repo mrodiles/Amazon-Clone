@@ -40,7 +40,7 @@ function Home() {
 
           <Product
             id="49538095"
-            title="Dring Up Ugly Sweater"
+            title="Drink Up Ugly Sweater"
             price={9.99}
             rating={3}
             image="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn2.bigcommerce.com%2Fserver1300%2F1hozm2en%2Fproducts%2F999%2Fimages%2F10067%2Fbeer_christmas_sweater__45816.1448379510.1280.1280.png%3Fc%3D2&f=1&nofb=1"
